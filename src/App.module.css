@@ -1,0 +1,12 @@
+.container{
+  background-color: #242526;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.loading{
+  text-align: center;
+}
